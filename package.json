@@ -1,7 +1,9 @@
 {
-  "name": "md-carousel-generator",
+  "name": "gen-it",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "author": "anampartho",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
