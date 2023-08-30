@@ -1,7 +1,9 @@
+import Navbar from "@/components/Navbar";
+
 export default function Home() {
   return (
     <main>
-      Markdown to Carousel Post Generator
+      <Navbar />
     </main>
-  )
+  );
 }
